@@ -1,0 +1,11 @@
+Place your emoji font file here and rename it exactly to:
+
+    ios_emoji.ttf
+
+The app looks for this exact filename at:
+    app/src/main/assets/fonts/ios_emoji.ttf
+
+If the file isn't there, the keyboard still works fine -
+it just falls back to your device's default emoji look.
+
+Delete this .txt file once you've added the real .ttf.

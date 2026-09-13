@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">iOS Emoji Keyboard</string>
+    <string name="setup_instructions">Step 1: Enable this keyboard in system settings.\n\nStep 2: Switch your active keyboard to it.\n\nThen open any chat app, tap the text field, and use the emoji tab on this keyboard.</string>
+</resources>
